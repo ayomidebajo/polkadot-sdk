@@ -16028,6 +16028,7 @@ dependencies = [
  "polkadot-jemalloc-shim",
  "polkadot-omni-node-lib",
  "substrate-build-script-utils",
+ "tokio",
 ]
 
 [[package]]
@@ -16058,6 +16059,7 @@ dependencies = [
  "frame-try-runtime",
  "futures",
  "futures-timer",
+ "hex",
  "jsonrpsee",
  "log",
  "nix 0.29.0",
@@ -16118,6 +16120,7 @@ dependencies = [
  "substrate-prometheus-endpoint 0.17.0",
  "substrate-state-trie-migration-rpc",
  "subxt-metadata 0.44.2",
+ "tempfile",
  "tokio",
  "wait-timeout",
 ]
@@ -16178,6 +16181,7 @@ dependencies = [
  "sp-keyring",
  "staging-xcm",
  "substrate-build-script-utils",
+ "tokio",
  "yet-another-parachain-runtime",
 ]
 
